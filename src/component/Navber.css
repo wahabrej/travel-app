@@ -1,0 +1,15 @@
+li{
+    margin-right: 20px;
+}
+h1{
+    font-size: large;
+}
+li{
+    list-style-type: none;
+}
+.content:hover{
+    opacity: 0.6;
+    transform: scale(0.5);
+    transition: transform 7s;
+   
+  }

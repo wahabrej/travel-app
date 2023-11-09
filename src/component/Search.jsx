@@ -9,15 +9,7 @@ const Search = () => {
         <div>
           <h2>LUXURY INCLUDED VACATIONS FOR TWO PEOPLE</h2>
           <p className='py-4'>
-            Come experience the very pinnacle of luxury Caribbean all-inclusive
-            vacations for couples at BEACHES Resorts. Our luxury beach resorts,
-            set along the most gorgeous tropical settings and exquisite beaches
-            in Saint Lucia, Jamaica, Antigua, The Bahamas, Grenada, Barbados and
-            Curaçao, feature unlimited gourmet dining, unique bars serving
-            premium liquors and wines, and every land and water sport, including
-            complimentary green fees at our golf resorts and certified scuba
-            diving at most resorts. If you are planning a wedding, BEACHES is
-            the leader in Caribbean destination weddings and honeymoon packages.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, voluptates ea recusandae fugiat odio at sunt nesciunt hic ullam ratione nihil ducimus corporis aut soluta, quam incidunt culpa modi suscipit eius consequuntur harum fugit. Odio optio, molestiae, incidunt enim fuga autem velit neque itaque doloribus nostrum laudantium sit vero eos, error quae deserunt dolorum! Eius eum, error molestias iusto illo provident nulla aut tempora. Natus tempore iure animi nesciunt voluptatibus consequuntur perferendis placeat excepturi unde. Fugit commodi aperiam laboriosam suscipit est tenetur, eligendi sapiente assumenda porro optio accusantium officia dolorum architecto eum impedit, ratione ipsum perferendis? Soluta aliquid ea sint ipsum impedit cum sequi! Sed, dolores impedit? Eveniet exercitationem pariatur, est minus ab iste, voluptatum mollitia adipisci, a reprehenderit ratione veritatis? Minus quos laborum voluptatem. Minus illo, itaque magnam perferendis eligendi voluptatibus placeat omnis deleniti adipisci explicabo ratione error voluptatum doloremque, consequatur obcaecati praesentium natus ab neque blanditiis numquam quia nam. Fuga, qui ipsa voluptas laudantium eos autem illo voluptates temporibus consectetur amet, eaque rem? Ullam ea, officiis porro sint accusamus ab non consequuntur omnis? Reprehenderit ipsam quis, sunt numquam vel officiis aliquid voluptates. Illum cupiditate ex corrupti, distinctio rem harum sapiente voluptatem tenetur perferendis. Quo vitae saepe deserunt quam.
           </p>
         </div>
         <div className='grid sm:grid-cols-2 gap-8 py-4'>
@@ -26,8 +18,8 @@ const Search = () => {
               <RiCustomerService2Fill size={50} />
             </button>
             <div>
-                <h3 className='py-2'>LEADING SERVICE</h3>
-                <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p>
+                <h3 className='py-2'>OUR SERVICES</h3>
+                <p className='py-1'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, vel.</p>
             </div>
           </div>
           <div className='flex flex-col lg:flex-row items-center text-center'>
@@ -35,8 +27,8 @@ const Search = () => {
               <MdOutlineTravelExplore size={50} />
             </button>
             <div>
-                <h3 className='py-2'>LEADING SERVICE</h3>
-                <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p>
+            <h3 className='py-2'>OUR SERVICES</h3>
+                <p className='py-1'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, vel.</p>
             </div>
           </div>
         </div>
@@ -52,10 +44,11 @@ const Search = () => {
               <div className='flex flex-col my-2'>
                   <label>Destination</label>
                   <select className='border rounded-md p-2'>
-                      <option>Grande Antigua</option>
-                      <option>Key West</option>
+                      <option>Istambul</option>
+                      <option>Dubai</option>
                       <option>Maldives</option>
-                      <option>Cozumel</option>
+                      <option>Qater</option>
+                      <option>Java</option>
                   </select>
               </div>
               <div className='flex flex-col my-4'>
